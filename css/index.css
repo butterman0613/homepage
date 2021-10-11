@@ -1,0 +1,29 @@
+body {
+	background-image: url("/images/background.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.switch-button {
+	background-color: transparent;
+	border: none;
+}
+
+.switch-button:hover {
+	background-color: transparent;
+	border: none;
+}
+.navbar li {
+	font-size: 1.5em;
+}
+
+.homepage-container h1 {
+	font-size: 3em;
+}
+
+.profile-photo img {
+	width: 15em;
+	height: 15em;
+}

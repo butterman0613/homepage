@@ -1,0 +1,20 @@
+body {
+	background-image: url("/images/background.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.navbar li {
+	font-size: 1.5em;
+}
+
+.educationpage-container h1 {
+	font-size: 3em;
+}
+
+img {
+	width: 4em;
+	height: 4em;
+}
