@@ -13,3 +13,5 @@ Build a personal website using HTML CSS, Bootstrap, and Javascript
 - Personal Page: [Homepage](https://butterman0613.github.io/homepage/index.html)
 - Slides: [Slides](https://docs.google.com/presentation/d/1Ioi4SXePsFTJqtGyWZYUcSyZcGXtLuypR5FIlqvQrcE/edit?usp=sharing)
 - Demo Link: [Demo Video](https://www.youtube.com/watch?v=Nsoi4z57b7A)
+
+-- Yuanyuan: The readme file is clear and easy to read. Good job! ---
